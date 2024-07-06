@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : shubhamade1122/my_hms
+     build : . 
      ports :
          - "8001:8001"
