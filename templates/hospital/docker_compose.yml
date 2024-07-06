@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : trainwithshubham/my-note-app:latest
+     image : tshubhamade1122/my_hms
      ports :
          - "8001:8001"
